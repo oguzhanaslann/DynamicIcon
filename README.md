@@ -4,7 +4,7 @@
 
 This Android project demonstrates a method to dynamically change app icons at runtime, providing users with a more personalized experience. The solution involves utilizing activity-alias in the app's manifest file and leveraging the PackageManager class to switch between different icons seamlessly.
 
-![Sample GIF](https://github.com/oguzhanaslann/cropView-compose/blob/master/sample.gif)
+![Sample GIF](https://github.com/oguzhanaslann/DynamicIcon/blob/master/sample/sample.gif)
 
 
 ## Implementation Details
