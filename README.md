@@ -1,11 +1,12 @@
 # Dynamic Icon - Android App
 
 ## Overview
-
 This Android project demonstrates a method to dynamically change app icons at runtime, providing users with a more personalized experience. The solution involves utilizing activity-alias in the app's manifest file and leveraging the PackageManager class to switch between different icons seamlessly.
 
 ![Sample GIF](https://github.com/oguzhanaslann/DynamicIcon/blob/master/sample/sample.gif)
 
+## Main Article
+- [Article Link: Dynamically Changing Android App Icons](https://medium.com/p/a61f8570ab9f)
 
 ## Implementation Details
 
@@ -45,9 +46,6 @@ Contributions to enhance the project or extend its functionality are welcome! Fe
 
 - [GeeksforGeeks - Programmatically Change App Icon in Android](https://www.geeksforgeeks.org/how-to-change-app-icon-of-android-programmatically-in-android/)
 - [Official Android Developer Guide - Activity Alias Element](https://developer.android.com/guide/topics/manifest/activity-alias-element)
-
-## Main Article
-- [Article Link: Dynamically Changing Android App Icons](https://medium.com/p/a61f8570ab9f)
 
 
 
